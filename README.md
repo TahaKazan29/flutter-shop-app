@@ -1,6 +1,15 @@
 # shop_app
 
-A new Flutter project.
+<table>
+  <tr>
+     <td>Home Page</td>
+     <td>Product Detail</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/74051388/114794734-b3f81500-9d95-11eb-9d64-4e12c981dbbb.png" width=370 height=580></td>
+    <td><img src="https://user-images.githubusercontent.com/74051388/114794810-d7bb5b00-9d95-11eb-90f2-776017c7e287.png" width=370 height=580></td>
+  </tr>
+ </table>
 
 ## Getting Started
 
